@@ -1,0 +1,17 @@
+# idea
+.vscode
+.idea
+
+# virtualenv directory
+env/
+venv/
+
+# artifacts
+*.zip
+
+# project pack directory
+package/
+
+# mac shit
+.DS_Store
+
